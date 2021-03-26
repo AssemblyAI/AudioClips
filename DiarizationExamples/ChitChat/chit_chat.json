@@ -1,0 +1,2788 @@
+[
+  {
+    "text": "Okay.",
+    "confidence": 0.97,
+    "end": 2970,
+    "start": 1970,
+    "label": "2"
+  },
+  {
+    "text": "So",
+    "confidence": 0.89,
+    "end": 3750,
+    "start": 3540,
+    "label": "2"
+  },
+  {
+    "text": "what",
+    "confidence": 0.96,
+    "end": 4470,
+    "start": 4170,
+    "label": "2"
+  },
+  {
+    "text": "are",
+    "confidence": 0.92,
+    "end": 4800,
+    "start": 4480,
+    "label": "2"
+  },
+  {
+    "text": "we",
+    "confidence": 0.93,
+    "end": 5010,
+    "start": 4800,
+    "label": "2"
+  },
+  {
+    "text": "having",
+    "confidence": 0.96,
+    "end": 5670,
+    "start": 5020,
+    "label": "2"
+  },
+  {
+    "text": "for",
+    "confidence": 0.91,
+    "end": 5850,
+    "start": 5680,
+    "label": "2"
+  },
+  {
+    "text": "dinner",
+    "confidence": 0.93,
+    "end": 6180,
+    "start": 5860,
+    "label": "2"
+  },
+  {
+    "text": "tonight?",
+    "confidence": 0.9,
+    "end": 6510,
+    "start": 6190,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 0.96,
+    "end": 6600,
+    "start": 6520,
+    "label": "1"
+  },
+  {
+    "text": "think",
+    "confidence": 0.92,
+    "end": 7920,
+    "start": 7560,
+    "label": "1"
+  },
+  {
+    "text": "I'm",
+    "confidence": 0.92,
+    "end": 8100,
+    "start": 7930,
+    "label": "1"
+  },
+  {
+    "text": "going",
+    "confidence": 0.87,
+    "end": 8310,
+    "start": 8110,
+    "label": "1"
+  },
+  {
+    "text": "to",
+    "confidence": 0.51,
+    "end": 8430,
+    "start": 8320,
+    "label": "1"
+  },
+  {
+    "text": "have",
+    "confidence": 0.99,
+    "end": 8580,
+    "start": 8440,
+    "label": "1"
+  },
+  {
+    "text": "a",
+    "confidence": 0.0,
+    "end": 8610,
+    "start": 8590,
+    "label": "1"
+  },
+  {
+    "text": "but",
+    "confidence": 0.89,
+    "end": 10710,
+    "start": 9780,
+    "label": "1"
+  },
+  {
+    "text": "I'm",
+    "confidence": 0.88,
+    "end": 10890,
+    "start": 10720,
+    "label": "1"
+  },
+  {
+    "text": "not",
+    "confidence": 0.96,
+    "end": 11040,
+    "start": 10900,
+    "label": "1"
+  },
+  {
+    "text": "sure",
+    "confidence": 0.97,
+    "end": 11250,
+    "start": 11050,
+    "label": "1"
+  },
+  {
+    "text": "yet.",
+    "confidence": 0.92,
+    "end": 11550,
+    "start": 11280,
+    "label": "1"
+  },
+  {
+    "text": "Like,",
+    "confidence": 0.65,
+    "end": 11790,
+    "start": 11550,
+    "label": "1"
+  },
+  {
+    "text": "my",
+    "confidence": 0.77,
+    "end": 12360,
+    "start": 12150,
+    "label": "1"
+  },
+  {
+    "text": "girlfriend",
+    "confidence": 0.93,
+    "end": 12900,
+    "start": 12450,
+    "label": "1"
+  },
+  {
+    "text": "said",
+    "confidence": 0.97,
+    "end": 13050,
+    "start": 12910,
+    "label": "1"
+  },
+  {
+    "text": "he's",
+    "confidence": 0.79,
+    "end": 13410,
+    "start": 13060,
+    "label": "1"
+  },
+  {
+    "text": "going",
+    "confidence": 0.95,
+    "end": 13620,
+    "start": 13420,
+    "label": "1"
+  },
+  {
+    "text": "to",
+    "confidence": 0.91,
+    "end": 13710,
+    "start": 13630,
+    "label": "1"
+  },
+  {
+    "text": "prepare",
+    "confidence": 1.0,
+    "end": 13950,
+    "start": 13720,
+    "label": "1"
+  },
+  {
+    "text": "past",
+    "confidence": 0.77,
+    "end": 14130,
+    "start": 13960,
+    "label": "1"
+  },
+  {
+    "text": "them.",
+    "confidence": 0.63,
+    "end": 14310,
+    "start": 14140,
+    "label": "1"
+  },
+  {
+    "text": "Probably",
+    "confidence": 0.95,
+    "end": 14850,
+    "start": 14370,
+    "label": "1"
+  },
+  {
+    "text": "past.",
+    "confidence": 0.75,
+    "end": 15030,
+    "start": 14860,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 15740,
+    "start": 15620,
+    "label": "2"
+  },
+  {
+    "text": "i",
+    "confidence": 0.94,
+    "end": 17930,
+    "start": 16820,
+    "label": "2"
+  },
+  {
+    "text": "don't",
+    "confidence": 0.94,
+    "end": 20390,
+    "start": 20090,
+    "label": "0"
+  },
+  {
+    "text": "know",
+    "confidence": 0.95,
+    "end": 20600,
+    "start": 20400,
+    "label": "0"
+  },
+  {
+    "text": "what",
+    "confidence": 0.99,
+    "end": 20810,
+    "start": 20610,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 20870,
+    "start": 20820,
+    "label": "0"
+  },
+  {
+    "text": "should",
+    "confidence": 0.97,
+    "end": 21200,
+    "start": 20870,
+    "label": "0"
+  },
+  {
+    "text": "have.",
+    "confidence": 0.94,
+    "end": 21530,
+    "start": 21230,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 21800,
+    "start": 21680,
+    "label": "0"
+  },
+  {
+    "text": "guess",
+    "confidence": 0.9,
+    "end": 22160,
+    "start": 21810,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.98,
+    "end": 22820,
+    "start": 22670,
+    "label": "0"
+  },
+  {
+    "text": "haven't",
+    "confidence": 0.9,
+    "end": 23180,
+    "start": 22830,
+    "label": "0"
+  },
+  {
+    "text": "really",
+    "confidence": 0.96,
+    "end": 23480,
+    "start": 23190,
+    "label": "0"
+  },
+  {
+    "text": "thought",
+    "confidence": 0.95,
+    "end": 23840,
+    "start": 23490,
+    "label": "0"
+  },
+  {
+    "text": "about",
+    "confidence": 0.99,
+    "end": 24110,
+    "start": 23850,
+    "label": "0"
+  },
+  {
+    "text": "it,",
+    "confidence": 0.93,
+    "end": 24260,
+    "start": 24120,
+    "label": "0"
+  },
+  {
+    "text": "but",
+    "confidence": 0.94,
+    "end": 24500,
+    "start": 24270,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.96,
+    "end": 24560,
+    "start": 24510,
+    "label": "0"
+  },
+  {
+    "text": "had",
+    "confidence": 0.97,
+    "end": 24860,
+    "start": 24570,
+    "label": "0"
+  },
+  {
+    "text": "rice",
+    "confidence": 0.97,
+    "end": 25310,
+    "start": 24890,
+    "label": "0"
+  },
+  {
+    "text": "and",
+    "confidence": 0.94,
+    "end": 25550,
+    "start": 25310,
+    "label": "0"
+  },
+  {
+    "text": "chicken",
+    "confidence": 0.98,
+    "end": 25910,
+    "start": 25560,
+    "label": "0"
+  },
+  {
+    "text": "for",
+    "confidence": 0.95,
+    "end": 26120,
+    "start": 25920,
+    "label": "0"
+  },
+  {
+    "text": "lunch,",
+    "confidence": 0.94,
+    "end": 26420,
+    "start": 26120,
+    "label": "0"
+  },
+  {
+    "text": "so",
+    "confidence": 1.0,
+    "end": 26920,
+    "start": 26740,
+    "label": "0"
+  },
+  {
+    "text": "something",
+    "confidence": 0.94,
+    "end": 28690,
+    "start": 28000,
+    "label": "0"
+  },
+  {
+    "text": "that",
+    "confidence": 0.92,
+    "end": 28870,
+    "start": 28700,
+    "label": "0"
+  },
+  {
+    "text": "is",
+    "confidence": 0.83,
+    "end": 29080,
+    "start": 28880,
+    "label": "0"
+  },
+  {
+    "text": "not",
+    "confidence": 0.95,
+    "end": 29320,
+    "start": 29080,
+    "label": "0"
+  },
+  {
+    "text": "right",
+    "confidence": 0.79,
+    "end": 29560,
+    "start": 29330,
+    "label": "0"
+  },
+  {
+    "text": "and",
+    "confidence": 0.83,
+    "end": 29740,
+    "start": 29570,
+    "label": "0"
+  },
+  {
+    "text": "chicken",
+    "confidence": 0.94,
+    "end": 30070,
+    "start": 29750,
+    "label": "0"
+  },
+  {
+    "text": "together.",
+    "confidence": 0.82,
+    "end": 30550,
+    "start": 30080,
+    "label": "0"
+  },
+  {
+    "text": "How",
+    "confidence": 0.81,
+    "end": 33040,
+    "start": 32170,
+    "label": "1"
+  },
+  {
+    "text": "about",
+    "confidence": 0.86,
+    "end": 33280,
+    "start": 33050,
+    "label": "1"
+  },
+  {
+    "text": "you",
+    "confidence": 0.84,
+    "end": 33550,
+    "start": 33290,
+    "label": "1"
+  },
+  {
+    "text": "in?",
+    "confidence": 0.89,
+    "end": 34990,
+    "start": 33990,
+    "label": "1"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.95,
+    "end": 35290,
+    "start": 35000,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 35350,
+    "start": 35300,
+    "label": "1"
+  },
+  {
+    "text": "did.",
+    "confidence": 0.99,
+    "end": 35620,
+    "start": 35360,
+    "label": "1"
+  },
+  {
+    "text": "But",
+    "confidence": 0.86,
+    "end": 36550,
+    "start": 35740,
+    "label": "2"
+  },
+  {
+    "text": "chicken",
+    "confidence": 0.93,
+    "end": 36850,
+    "start": 36560,
+    "label": "2"
+  },
+  {
+    "text": "and",
+    "confidence": 0.95,
+    "end": 37000,
+    "start": 36860,
+    "label": "2"
+  },
+  {
+    "text": "rice",
+    "confidence": 0.99,
+    "end": 37270,
+    "start": 37010,
+    "label": "2"
+  },
+  {
+    "text": "last",
+    "confidence": 0.94,
+    "end": 37690,
+    "start": 37390,
+    "label": "2"
+  },
+  {
+    "text": "night,",
+    "confidence": 0.94,
+    "end": 37990,
+    "start": 37700,
+    "label": "2"
+  },
+  {
+    "text": "so",
+    "confidence": 0.78,
+    "end": 38860,
+    "start": 38620,
+    "label": "2"
+  },
+  {
+    "text": "it's",
+    "confidence": 0.84,
+    "end": 39160,
+    "start": 38870,
+    "label": "2"
+  },
+  {
+    "text": "probably",
+    "confidence": 0.94,
+    "end": 39490,
+    "start": 39170,
+    "label": "2"
+  },
+  {
+    "text": "going",
+    "confidence": 0.81,
+    "end": 39760,
+    "start": 39500,
+    "label": "2"
+  },
+  {
+    "text": "to",
+    "confidence": 0.53,
+    "end": 39850,
+    "start": 39770,
+    "label": "2"
+  },
+  {
+    "text": "be",
+    "confidence": 0.96,
+    "end": 40000,
+    "start": 39860,
+    "label": "2"
+  },
+  {
+    "text": "either",
+    "confidence": 0.88,
+    "end": 40900,
+    "start": 40390,
+    "label": "2"
+  },
+  {
+    "text": "spaghetti",
+    "confidence": 0.83,
+    "end": 41590,
+    "start": 40910,
+    "label": "2"
+  },
+  {
+    "text": "or",
+    "confidence": 0.9,
+    "end": 41770,
+    "start": 41600,
+    "label": "2"
+  },
+  {
+    "text": "fettuccini",
+    "confidence": 0.82,
+    "end": 42520,
+    "start": 41770,
+    "label": "2"
+  },
+  {
+    "text": "for",
+    "confidence": 0.98,
+    "end": 42700,
+    "start": 42530,
+    "label": "2"
+  },
+  {
+    "text": "me.",
+    "confidence": 0.96,
+    "end": 42850,
+    "start": 42710,
+    "label": "2"
+  },
+  {
+    "text": "Like",
+    "confidence": 0.93,
+    "end": 43870,
+    "start": 43630,
+    "label": "0"
+  },
+  {
+    "text": "you",
+    "confidence": 0.87,
+    "end": 44080,
+    "start": 43870,
+    "label": "0"
+  },
+  {
+    "text": "like,",
+    "confidence": 0.79,
+    "end": 45430,
+    "start": 45190,
+    "label": "0"
+  },
+  {
+    "text": "Do",
+    "confidence": 0.97,
+    "end": 46520,
+    "start": 46100,
+    "label": "0"
+  },
+  {
+    "text": "you",
+    "confidence": 0.93,
+    "end": 46790,
+    "start": 46530,
+    "label": "0"
+  },
+  {
+    "text": "cook?",
+    "confidence": 0.9,
+    "end": 47420,
+    "start": 46800,
+    "label": "0"
+  },
+  {
+    "text": "Steven,",
+    "confidence": 0.86,
+    "end": 47810,
+    "start": 47430,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 48620,
+    "start": 48470,
+    "label": "2"
+  },
+  {
+    "text": "do",
+    "confidence": 0.93,
+    "end": 49040,
+    "start": 48800,
+    "label": "2"
+  },
+  {
+    "text": "cook",
+    "confidence": 0.99,
+    "end": 49640,
+    "start": 49280,
+    "label": "2"
+  },
+  {
+    "text": "usually.",
+    "confidence": 0.94,
+    "end": 50270,
+    "start": 49730,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 51170,
+    "start": 50270,
+    "label": "2"
+  },
+  {
+    "text": "don't",
+    "confidence": 0.93,
+    "end": 51590,
+    "start": 51230,
+    "label": "2"
+  },
+  {
+    "text": "love",
+    "confidence": 0.84,
+    "end": 52100,
+    "start": 51600,
+    "label": "2"
+  },
+  {
+    "text": "it,",
+    "confidence": 1.0,
+    "end": 52220,
+    "start": 52110,
+    "label": "2"
+  },
+  {
+    "text": "but",
+    "confidence": 1.0,
+    "end": 52460,
+    "start": 52230,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 0.99,
+    "end": 52520,
+    "start": 52470,
+    "label": "2"
+  },
+  {
+    "text": "don't",
+    "confidence": 0.91,
+    "end": 52790,
+    "start": 52530,
+    "label": "2"
+  },
+  {
+    "text": "actively",
+    "confidence": 0.94,
+    "end": 53300,
+    "start": 52800,
+    "label": "2"
+  },
+  {
+    "text": "dislike",
+    "confidence": 0.96,
+    "end": 53840,
+    "start": 53300,
+    "label": "2"
+  },
+  {
+    "text": "it.",
+    "confidence": 0.86,
+    "end": 54020,
+    "start": 53850,
+    "label": "2"
+  },
+  {
+    "text": "Is",
+    "confidence": 0.7,
+    "end": 54530,
+    "start": 54030,
+    "label": "2"
+  },
+  {
+    "text": "my",
+    "confidence": 0.93,
+    "end": 55010,
+    "start": 54770,
+    "label": "2"
+  },
+  {
+    "text": "wife.",
+    "confidence": 0.82,
+    "end": 55220,
+    "start": 55020,
+    "label": "2"
+  },
+  {
+    "text": "That's",
+    "confidence": 0.88,
+    "end": 56570,
+    "start": 56270,
+    "label": "1"
+  },
+  {
+    "text": "pretty",
+    "confidence": 0.95,
+    "end": 56900,
+    "start": 56580,
+    "label": "1"
+  },
+  {
+    "text": "cool.",
+    "confidence": 0.92,
+    "end": 57140,
+    "start": 56910,
+    "label": "1"
+  },
+  {
+    "text": "Yeah.",
+    "confidence": 0.77,
+    "end": 57380,
+    "start": 57140,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 57440,
+    "start": 57390,
+    "label": "1"
+  },
+  {
+    "text": "mean,",
+    "confidence": 0.75,
+    "end": 57710,
+    "start": 57440,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 57770,
+    "start": 57720,
+    "label": "1"
+  },
+  {
+    "text": "order",
+    "confidence": 0.84,
+    "end": 58280,
+    "start": 57770,
+    "label": "1"
+  },
+  {
+    "text": "most",
+    "confidence": 0.96,
+    "end": 58490,
+    "start": 58290,
+    "label": "1"
+  },
+  {
+    "text": "of",
+    "confidence": 0.96,
+    "end": 58610,
+    "start": 58500,
+    "label": "1"
+  },
+  {
+    "text": "the",
+    "confidence": 0.93,
+    "end": 58760,
+    "start": 58620,
+    "label": "1"
+  },
+  {
+    "text": "time",
+    "confidence": 0.67,
+    "end": 58970,
+    "start": 58770,
+    "label": "1"
+  },
+  {
+    "text": "outside.",
+    "confidence": 0.9,
+    "end": 59390,
+    "start": 58970,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 59780,
+    "start": 59660,
+    "label": "1"
+  },
+  {
+    "text": "don't",
+    "confidence": 0.92,
+    "end": 60230,
+    "start": 59840,
+    "label": "1"
+  },
+  {
+    "text": "like",
+    "confidence": 0.75,
+    "end": 60590,
+    "start": 60240,
+    "label": "1"
+  },
+  {
+    "text": "most",
+    "confidence": 0.98,
+    "end": 60800,
+    "start": 60600,
+    "label": "1"
+  },
+  {
+    "text": "of",
+    "confidence": 0.91,
+    "end": 60950,
+    "start": 60810,
+    "label": "1"
+  },
+  {
+    "text": "the",
+    "confidence": 0.94,
+    "end": 61100,
+    "start": 60960,
+    "label": "1"
+  },
+  {
+    "text": "time.",
+    "confidence": 0.96,
+    "end": 61310,
+    "start": 61110,
+    "label": "1"
+  },
+  {
+    "text": "And",
+    "confidence": 0.61,
+    "end": 62490,
+    "start": 61680,
+    "label": "1"
+  },
+  {
+    "text": "mica,",
+    "confidence": 0.77,
+    "end": 62850,
+    "start": 62500,
+    "label": "1"
+  },
+  {
+    "text": "right.",
+    "confidence": 0.82,
+    "end": 63090,
+    "start": 62860,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 64470,
+    "start": 64350,
+    "label": "0"
+  },
+  {
+    "text": "do",
+    "confidence": 0.96,
+    "end": 65010,
+    "start": 64470,
+    "label": "0"
+  },
+  {
+    "text": "do",
+    "confidence": 0.91,
+    "end": 65220,
+    "start": 65020,
+    "label": "0"
+  },
+  {
+    "text": "that",
+    "confidence": 0.97,
+    "end": 65490,
+    "start": 65230,
+    "label": "0"
+  },
+  {
+    "text": "a",
+    "confidence": 1.0,
+    "end": 65550,
+    "start": 65500,
+    "label": "0"
+  },
+  {
+    "text": "lot,",
+    "confidence": 1.0,
+    "end": 65820,
+    "start": 65610,
+    "label": "0"
+  },
+  {
+    "text": "but",
+    "confidence": 0.99,
+    "end": 66030,
+    "start": 65830,
+    "label": "0"
+  },
+  {
+    "text": "I've",
+    "confidence": 0.97,
+    "end": 66270,
+    "start": 66040,
+    "label": "0"
+  },
+  {
+    "text": "been",
+    "confidence": 0.95,
+    "end": 66480,
+    "start": 66280,
+    "label": "0"
+  },
+  {
+    "text": "trying",
+    "confidence": 0.95,
+    "end": 66870,
+    "start": 66480,
+    "label": "0"
+  },
+  {
+    "text": "to",
+    "confidence": 0.94,
+    "end": 67020,
+    "start": 66880,
+    "label": "0"
+  },
+  {
+    "text": "cook",
+    "confidence": 0.97,
+    "end": 67410,
+    "start": 67020,
+    "label": "0"
+  },
+  {
+    "text": "more",
+    "confidence": 0.93,
+    "end": 68460,
+    "start": 68160,
+    "label": "0"
+  },
+  {
+    "text": "often,",
+    "confidence": 0.94,
+    "end": 68940,
+    "start": 68490,
+    "label": "0"
+  },
+  {
+    "text": "so",
+    "confidence": 0.97,
+    "end": 69270,
+    "start": 69030,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 69330,
+    "start": 69280,
+    "label": "0"
+  },
+  {
+    "text": "have",
+    "confidence": 0.93,
+    "end": 69690,
+    "start": 69390,
+    "label": "0"
+  },
+  {
+    "text": "been",
+    "confidence": 0.99,
+    "end": 70020,
+    "start": 69720,
+    "label": "0"
+  },
+  {
+    "text": "doing",
+    "confidence": 0.94,
+    "end": 70500,
+    "start": 70110,
+    "label": "0"
+  },
+  {
+    "text": "that,",
+    "confidence": 0.97,
+    "end": 70740,
+    "start": 70510,
+    "label": "0"
+  },
+  {
+    "text": "like",
+    "confidence": 0.9,
+    "end": 72240,
+    "start": 71240,
+    "label": "0"
+  },
+  {
+    "text": "cooking,",
+    "confidence": 0.89,
+    "end": 72630,
+    "start": 72240,
+    "label": "0"
+  },
+  {
+    "text": "like,",
+    "confidence": 0.83,
+    "end": 72960,
+    "start": 72690,
+    "label": "0"
+  },
+  {
+    "text": "simple",
+    "confidence": 0.94,
+    "end": 73290,
+    "start": 72970,
+    "label": "0"
+  },
+  {
+    "text": "meals,",
+    "confidence": 0.92,
+    "end": 73560,
+    "start": 73300,
+    "label": "0"
+  },
+  {
+    "text": "like",
+    "confidence": 0.68,
+    "end": 73830,
+    "start": 73590,
+    "label": "0"
+  },
+  {
+    "text": "rice",
+    "confidence": 0.91,
+    "end": 74580,
+    "start": 74310,
+    "label": "0"
+  },
+  {
+    "text": "and",
+    "confidence": 0.97,
+    "end": 74730,
+    "start": 74590,
+    "label": "0"
+  },
+  {
+    "text": "chicken.",
+    "confidence": 0.99,
+    "end": 74970,
+    "start": 74740,
+    "label": "0"
+  },
+  {
+    "text": "Do",
+    "confidence": 0.98,
+    "end": 76430,
+    "start": 75430,
+    "label": "2"
+  },
+  {
+    "text": "you",
+    "confidence": 0.92,
+    "end": 76610,
+    "start": 76440,
+    "label": "2"
+  },
+  {
+    "text": "have",
+    "confidence": 0.86,
+    "end": 76790,
+    "start": 76620,
+    "label": "2"
+  },
+  {
+    "text": "a",
+    "confidence": 0.98,
+    "end": 76850,
+    "start": 76800,
+    "label": "2"
+  },
+  {
+    "text": "go",
+    "confidence": 0.95,
+    "end": 77060,
+    "start": 76860,
+    "label": "2"
+  },
+  {
+    "text": "to",
+    "confidence": 0.86,
+    "end": 77300,
+    "start": 77070,
+    "label": "2"
+  },
+  {
+    "text": "take",
+    "confidence": 0.96,
+    "end": 77900,
+    "start": 77330,
+    "label": "2"
+  },
+  {
+    "text": "out",
+    "confidence": 0.82,
+    "end": 78110,
+    "start": 77910,
+    "label": "2"
+  },
+  {
+    "text": "place?",
+    "confidence": 0.94,
+    "end": 78440,
+    "start": 78120,
+    "label": "2"
+  },
+  {
+    "text": "Let's",
+    "confidence": 0.99,
+    "end": 82810,
+    "start": 81810,
+    "label": "1"
+  },
+  {
+    "text": "see.",
+    "confidence": 0.95,
+    "end": 83050,
+    "start": 82820,
+    "label": "1"
+  },
+  {
+    "text": "There",
+    "confidence": 0.79,
+    "end": 83680,
+    "start": 83060,
+    "label": "1"
+  },
+  {
+    "text": "are",
+    "confidence": 0.93,
+    "end": 83860,
+    "start": 83690,
+    "label": "1"
+  },
+  {
+    "text": "a",
+    "confidence": 1.0,
+    "end": 83920,
+    "start": 83870,
+    "label": "1"
+  },
+  {
+    "text": "bunch",
+    "confidence": 0.94,
+    "end": 84340,
+    "start": 84040,
+    "label": "1"
+  },
+  {
+    "text": "of",
+    "confidence": 0.85,
+    "end": 84430,
+    "start": 84350,
+    "label": "1"
+  },
+  {
+    "text": "places",
+    "confidence": 0.95,
+    "end": 84730,
+    "start": 84440,
+    "label": "1"
+  },
+  {
+    "text": "around",
+    "confidence": 0.91,
+    "end": 85030,
+    "start": 84740,
+    "label": "1"
+  },
+  {
+    "text": "here.",
+    "confidence": 0.93,
+    "end": 85240,
+    "start": 85040,
+    "label": "1"
+  },
+  {
+    "text": "Like,",
+    "confidence": 0.82,
+    "end": 85480,
+    "start": 85250,
+    "label": "1"
+  },
+  {
+    "text": "the",
+    "confidence": 0.97,
+    "end": 85660,
+    "start": 85490,
+    "label": "1"
+  },
+  {
+    "text": "one",
+    "confidence": 0.97,
+    "end": 85810,
+    "start": 85670,
+    "label": "1"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 85870,
+    "start": 85820,
+    "label": "1"
+  },
+  {
+    "text": "like",
+    "confidence": 0.99,
+    "end": 86110,
+    "start": 85880,
+    "label": "1"
+  },
+  {
+    "text": "the",
+    "confidence": 0.98,
+    "end": 86380,
+    "start": 86120,
+    "label": "1"
+  },
+  {
+    "text": "most",
+    "confidence": 0.95,
+    "end": 86650,
+    "start": 86390,
+    "label": "1"
+  },
+  {
+    "text": "is",
+    "confidence": 0.83,
+    "end": 86890,
+    "start": 86660,
+    "label": "1"
+  },
+  {
+    "text": "called",
+    "confidence": 0.98,
+    "end": 87220,
+    "start": 86900,
+    "label": "1"
+  },
+  {
+    "text": "Deli",
+    "confidence": 0.78,
+    "end": 87550,
+    "start": 87230,
+    "label": "1"
+  },
+  {
+    "text": "board.",
+    "confidence": 0.92,
+    "end": 87760,
+    "start": 87560,
+    "label": "1"
+  },
+  {
+    "text": "It's",
+    "confidence": 0.83,
+    "end": 88990,
+    "start": 88090,
+    "label": "1"
+  },
+  {
+    "text": "like",
+    "confidence": 0.9,
+    "end": 89170,
+    "start": 89000,
+    "label": "1"
+  },
+  {
+    "text": "a",
+    "confidence": 1.0,
+    "end": 89230,
+    "start": 89180,
+    "label": "1"
+  },
+  {
+    "text": "sandwich",
+    "confidence": 0.93,
+    "end": 89800,
+    "start": 89230,
+    "label": "1"
+  },
+  {
+    "text": "place.",
+    "confidence": 0.95,
+    "end": 90040,
+    "start": 89810,
+    "label": "1"
+  },
+  {
+    "text": "Like,",
+    "confidence": 0.9,
+    "end": 90680,
+    "start": 90200,
+    "label": "1"
+  },
+  {
+    "text": "I've",
+    "confidence": 0.74,
+    "end": 90980,
+    "start": 90680,
+    "label": "1"
+  },
+  {
+    "text": "been",
+    "confidence": 0.79,
+    "end": 91190,
+    "start": 90990,
+    "label": "1"
+  },
+  {
+    "text": "telling",
+    "confidence": 0.93,
+    "end": 91820,
+    "start": 91250,
+    "label": "1"
+  },
+  {
+    "text": "Michael",
+    "confidence": 0.92,
+    "end": 92120,
+    "start": 91830,
+    "label": "1"
+  },
+  {
+    "text": "that",
+    "confidence": 0.97,
+    "end": 92270,
+    "start": 92130,
+    "label": "1"
+  },
+  {
+    "text": "every",
+    "confidence": 0.99,
+    "end": 92510,
+    "start": 92280,
+    "label": "1"
+  },
+  {
+    "text": "time",
+    "confidence": 0.92,
+    "end": 92660,
+    "start": 92520,
+    "label": "1"
+  },
+  {
+    "text": "he",
+    "confidence": 0.62,
+    "end": 92780,
+    "start": 92670,
+    "label": "1"
+  },
+  {
+    "text": "comes",
+    "confidence": 0.97,
+    "end": 92990,
+    "start": 92790,
+    "label": "1"
+  },
+  {
+    "text": "to",
+    "confidence": 0.7,
+    "end": 93080,
+    "start": 93000,
+    "label": "1"
+  },
+  {
+    "text": "see,",
+    "confidence": 0.69,
+    "end": 93440,
+    "start": 93090,
+    "label": "1"
+  },
+  {
+    "text": "take",
+    "confidence": 0.88,
+    "end": 93830,
+    "start": 93590,
+    "label": "1"
+  },
+  {
+    "text": "him",
+    "confidence": 0.81,
+    "end": 93950,
+    "start": 93840,
+    "label": "1"
+  },
+  {
+    "text": "there.",
+    "confidence": 0.85,
+    "end": 94130,
+    "start": 93960,
+    "label": "1"
+  },
+  {
+    "text": "But,",
+    "confidence": 0.66,
+    "end": 94370,
+    "start": 94140,
+    "label": "1"
+  },
+  {
+    "text": "like,",
+    "confidence": 0.7,
+    "end": 94550,
+    "start": 94380,
+    "label": "1"
+  },
+  {
+    "text": "he's",
+    "confidence": 0.78,
+    "end": 95660,
+    "start": 94670,
+    "label": "1"
+  },
+  {
+    "text": "never",
+    "confidence": 0.99,
+    "end": 95900,
+    "start": 95670,
+    "label": "1"
+  },
+  {
+    "text": "been",
+    "confidence": 0.98,
+    "end": 96140,
+    "start": 95910,
+    "label": "1"
+  },
+  {
+    "text": "there.",
+    "confidence": 0.85,
+    "end": 96380,
+    "start": 96150,
+    "label": "1"
+  },
+  {
+    "text": "The",
+    "confidence": 0.88,
+    "end": 96650,
+    "start": 96410,
+    "label": "1"
+  },
+  {
+    "text": "deli",
+    "confidence": 0.82,
+    "end": 96950,
+    "start": 96660,
+    "label": "1"
+  },
+  {
+    "text": "board",
+    "confidence": 0.86,
+    "end": 97160,
+    "start": 96960,
+    "label": "1"
+  },
+  {
+    "text": "one",
+    "confidence": 0.95,
+    "end": 97340,
+    "start": 97170,
+    "label": "1"
+  },
+  {
+    "text": "over.",
+    "confidence": 0.69,
+    "end": 97910,
+    "start": 97350,
+    "label": "1"
+  },
+  {
+    "text": "Michael.",
+    "confidence": 0.85,
+    "end": 98420,
+    "start": 97920,
+    "label": "1"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.75,
+    "end": 98630,
+    "start": 98430,
+    "label": "1"
+  },
+  {
+    "text": "that's",
+    "confidence": 0.67,
+    "end": 99770,
+    "start": 99440,
+    "label": "1"
+  },
+  {
+    "text": "a",
+    "confidence": 0.47,
+    "end": 99890,
+    "start": 99780,
+    "label": "1"
+  },
+  {
+    "text": "best",
+    "confidence": 0.69,
+    "end": 100160,
+    "start": 99900,
+    "label": "1"
+  },
+  {
+    "text": "time.",
+    "confidence": 0.58,
+    "end": 100490,
+    "start": 100170,
+    "label": "1"
+  },
+  {
+    "text": "It",
+    "confidence": 0.65,
+    "end": 100670,
+    "start": 100490,
+    "label": "1"
+  },
+  {
+    "text": "is.",
+    "confidence": 0.81,
+    "end": 101030,
+    "start": 100680,
+    "label": "1"
+  },
+  {
+    "text": "It's",
+    "confidence": 0.77,
+    "end": 101240,
+    "start": 101040,
+    "label": "1"
+  },
+  {
+    "text": "pretty",
+    "confidence": 0.99,
+    "end": 101540,
+    "start": 101250,
+    "label": "1"
+  },
+  {
+    "text": "cool.",
+    "confidence": 0.91,
+    "end": 101720,
+    "start": 101550,
+    "label": "1"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.94,
+    "end": 102680,
+    "start": 101720,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.74,
+    "end": 102800,
+    "start": 102690,
+    "label": "0"
+  },
+  {
+    "text": "still",
+    "confidence": 0.88,
+    "end": 103280,
+    "start": 102890,
+    "label": "0"
+  },
+  {
+    "text": "need",
+    "confidence": 0.93,
+    "end": 103520,
+    "start": 103290,
+    "label": "0"
+  },
+  {
+    "text": "to",
+    "confidence": 0.93,
+    "end": 103730,
+    "start": 103520,
+    "label": "0"
+  },
+  {
+    "text": "try",
+    "confidence": 0.99,
+    "end": 104540,
+    "start": 103740,
+    "label": "0"
+  },
+  {
+    "text": "that",
+    "confidence": 0.93,
+    "end": 104930,
+    "start": 104540,
+    "label": "0"
+  },
+  {
+    "text": "for",
+    "confidence": 0.99,
+    "end": 106550,
+    "start": 105550,
+    "label": "0"
+  },
+  {
+    "text": "me.",
+    "confidence": 0.81,
+    "end": 106730,
+    "start": 106560,
+    "label": "0"
+  },
+  {
+    "text": "Take",
+    "confidence": 0.91,
+    "end": 107120,
+    "start": 106740,
+    "label": "0"
+  },
+  {
+    "text": "out.",
+    "confidence": 0.83,
+    "end": 107390,
+    "start": 107130,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.99,
+    "end": 107540,
+    "start": 107420,
+    "label": "0"
+  },
+  {
+    "text": "really",
+    "confidence": 0.9,
+    "end": 107960,
+    "start": 107540,
+    "label": "0"
+  },
+  {
+    "text": "like,",
+    "confidence": 0.92,
+    "end": 108200,
+    "start": 107970,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.91,
+    "end": 108290,
+    "start": 108210,
+    "label": "0"
+  },
+  {
+    "text": "guess.",
+    "confidence": 0.89,
+    "end": 108620,
+    "start": 108290,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 1.0,
+    "end": 110500,
+    "start": 110380,
+    "label": "0"
+  },
+  {
+    "text": "don't",
+    "confidence": 0.95,
+    "end": 112480,
+    "start": 112030,
+    "label": "0"
+  },
+  {
+    "text": "know,",
+    "confidence": 0.96,
+    "end": 112690,
+    "start": 112490,
+    "label": "0"
+  },
+  {
+    "text": "sushi",
+    "confidence": 0.9,
+    "end": 113170,
+    "start": 112700,
+    "label": "0"
+  },
+  {
+    "text": "or",
+    "confidence": 0.99,
+    "end": 113440,
+    "start": 113230,
+    "label": "0"
+  },
+  {
+    "text": "Indian",
+    "confidence": 0.9,
+    "end": 113830,
+    "start": 113450,
+    "label": "0"
+  },
+  {
+    "text": "food.",
+    "confidence": 0.99,
+    "end": 114100,
+    "start": 113840,
+    "label": "0"
+  },
+  {
+    "text": "There's",
+    "confidence": 0.85,
+    "end": 115030,
+    "start": 114110,
+    "label": "0"
+  },
+  {
+    "text": "pakistani",
+    "confidence": 0.96,
+    "end": 116470,
+    "start": 115780,
+    "label": "0"
+  },
+  {
+    "text": "restaurant?",
+    "confidence": 1.0,
+    "end": 117100,
+    "start": 116560,
+    "label": "0"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.9,
+    "end": 119590,
+    "start": 119380,
+    "label": "0"
+  },
+  {
+    "text": "pretty",
+    "confidence": 0.93,
+    "end": 119980,
+    "start": 119600,
+    "label": "0"
+  },
+  {
+    "text": "similar.",
+    "confidence": 0.83,
+    "end": 120280,
+    "start": 119990,
+    "label": "0"
+  },
+  {
+    "text": "There's",
+    "confidence": 0.84,
+    "end": 120580,
+    "start": 120290,
+    "label": "0"
+  },
+  {
+    "text": "Pakistani",
+    "confidence": 0.87,
+    "end": 121030,
+    "start": 120590,
+    "label": "0"
+  },
+  {
+    "text": "restaurant.",
+    "confidence": 0.98,
+    "end": 121480,
+    "start": 121040,
+    "label": "0"
+  },
+  {
+    "text": "That's",
+    "confidence": 0.9,
+    "end": 121750,
+    "start": 121490,
+    "label": "0"
+  },
+  {
+    "text": "super",
+    "confidence": 0.93,
+    "end": 122020,
+    "start": 121760,
+    "label": "0"
+  },
+  {
+    "text": "good.",
+    "confidence": 0.91,
+    "end": 122260,
+    "start": 122030,
+    "label": "0"
+  },
+  {
+    "text": "And",
+    "confidence": 0.96,
+    "end": 123100,
+    "start": 122860,
+    "label": "0"
+  },
+  {
+    "text": "there's",
+    "confidence": 0.96,
+    "end": 123370,
+    "start": 123110,
+    "label": "0"
+  },
+  {
+    "text": "a",
+    "confidence": 0.55,
+    "end": 123460,
+    "start": 123380,
+    "label": "0"
+  },
+  {
+    "text": "sushi",
+    "confidence": 0.82,
+    "end": 123820,
+    "start": 123470,
+    "label": "0"
+  },
+  {
+    "text": "restaurant",
+    "confidence": 0.97,
+    "end": 124240,
+    "start": 123830,
+    "label": "0"
+  },
+  {
+    "text": "nearby,",
+    "confidence": 0.94,
+    "end": 124570,
+    "start": 124250,
+    "label": "0"
+  },
+  {
+    "text": "too.",
+    "confidence": 0.95,
+    "end": 124810,
+    "start": 124580,
+    "label": "0"
+  },
+  {
+    "text": "That's",
+    "confidence": 0.95,
+    "end": 125080,
+    "start": 124820,
+    "label": "0"
+  },
+  {
+    "text": "really",
+    "confidence": 0.99,
+    "end": 125380,
+    "start": 125090,
+    "label": "0"
+  },
+  {
+    "text": "good.",
+    "confidence": 0.94,
+    "end": 125560,
+    "start": 125390,
+    "label": "0"
+  },
+  {
+    "text": "So",
+    "confidence": 0.91,
+    "end": 125830,
+    "start": 125570,
+    "label": "0"
+  },
+  {
+    "text": "that's",
+    "confidence": 0.88,
+    "end": 126070,
+    "start": 125840,
+    "label": "0"
+  },
+  {
+    "text": "why",
+    "confidence": 0.92,
+    "end": 126220,
+    "start": 126080,
+    "label": "0"
+  },
+  {
+    "text": "I",
+    "confidence": 0.98,
+    "end": 126310,
+    "start": 126230,
+    "label": "0"
+  },
+  {
+    "text": "like",
+    "confidence": 0.87,
+    "end": 126550,
+    "start": 126320,
+    "label": "0"
+  },
+  {
+    "text": "to",
+    "confidence": 1.0,
+    "end": 126670,
+    "start": 126560,
+    "label": "0"
+  },
+  {
+    "text": "take",
+    "confidence": 0.99,
+    "end": 126820,
+    "start": 126680,
+    "label": "0"
+  },
+  {
+    "text": "out.",
+    "confidence": 0.64,
+    "end": 126970,
+    "start": 126830,
+    "label": "0"
+  },
+  {
+    "text": "It's",
+    "confidence": 0.87,
+    "end": 127330,
+    "start": 127030,
+    "label": "0"
+  },
+  {
+    "text": "kind",
+    "confidence": 0.95,
+    "end": 127510,
+    "start": 127340,
+    "label": "0"
+  },
+  {
+    "text": "of",
+    "confidence": 0.77,
+    "end": 127630,
+    "start": 127520,
+    "label": "0"
+  },
+  {
+    "text": "expensive,",
+    "confidence": 0.98,
+    "end": 128050,
+    "start": 127640,
+    "label": "0"
+  },
+  {
+    "text": "though.",
+    "confidence": 0.87,
+    "end": 128350,
+    "start": 128060,
+    "label": "0"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.95,
+    "end": 130120,
+    "start": 129120,
+    "label": "2"
+  },
+  {
+    "text": "definitely.",
+    "confidence": 0.89,
+    "end": 130930,
+    "start": 130330,
+    "label": "2"
+  },
+  {
+    "text": "We",
+    "confidence": 0.85,
+    "end": 131170,
+    "start": 130960,
+    "label": "2"
+  },
+  {
+    "text": "moved",
+    "confidence": 0.91,
+    "end": 131950,
+    "start": 131590,
+    "label": "2"
+  },
+  {
+    "text": "away.",
+    "confidence": 0.95,
+    "end": 132280,
+    "start": 131950,
+    "label": "2"
+  },
+  {
+    "text": "We",
+    "confidence": 0.82,
+    "end": 132550,
+    "start": 132340,
+    "label": "2"
+  },
+  {
+    "text": "were",
+    "confidence": 0.68,
+    "end": 132730,
+    "start": 132560,
+    "label": "2"
+  },
+  {
+    "text": "close",
+    "confidence": 0.97,
+    "end": 133030,
+    "start": 132740,
+    "label": "2"
+  },
+  {
+    "text": "to",
+    "confidence": 0.78,
+    "end": 133240,
+    "start": 133040,
+    "label": "2"
+  },
+  {
+    "text": "our",
+    "confidence": 0.89,
+    "end": 133540,
+    "start": 133250,
+    "label": "2"
+  },
+  {
+    "text": "specie",
+    "confidence": 0.9,
+    "end": 133930,
+    "start": 133550,
+    "label": "2"
+  },
+  {
+    "text": "place,",
+    "confidence": 0.96,
+    "end": 134140,
+    "start": 133940,
+    "label": "2"
+  },
+  {
+    "text": "and",
+    "confidence": 0.91,
+    "end": 134290,
+    "start": 134150,
+    "label": "2"
+  },
+  {
+    "text": "now",
+    "confidence": 0.82,
+    "end": 134440,
+    "start": 134300,
+    "label": "2"
+  },
+  {
+    "text": "it's",
+    "confidence": 0.76,
+    "end": 134620,
+    "start": 134450,
+    "label": "2"
+  },
+  {
+    "text": "like",
+    "confidence": 0.37,
+    "end": 134770,
+    "start": 134630,
+    "label": "2"
+  },
+  {
+    "text": "Christians",
+    "confidence": 0.74,
+    "end": 135400,
+    "start": 134780,
+    "label": "2"
+  },
+  {
+    "text": "away.",
+    "confidence": 0.93,
+    "end": 135640,
+    "start": 135410,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 0.7,
+    "end": 137260,
+    "start": 136990,
+    "label": "2"
+  },
+  {
+    "text": "work.",
+    "confidence": 0.71,
+    "end": 138070,
+    "start": 137440,
+    "label": "2"
+  },
+  {
+    "text": "I",
+    "confidence": 0.98,
+    "end": 138130,
+    "start": 138080,
+    "label": "2"
+  },
+  {
+    "text": "guess",
+    "confidence": 0.89,
+    "end": 138700,
+    "start": 138310,
+    "label": "2"
+  },
+  {
+    "text": "so.",
+    "confidence": 0.87,
+    "end": 138970,
+    "start": 138710,
+    "label": "2"
+  },
+  {
+    "text": "Yeah.",
+    "confidence": 0.76,
+    "end": 139180,
+    "start": 138980,
+    "label": "1"
+  },
+  {
+    "text": "Do",
+    "confidence": 1.0,
+    "end": 140070,
+    "start": 139920,
+    "label": "1"
+  },
+  {
+    "text": "you",
+    "confidence": 0.91,
+    "end": 141360,
+    "start": 140670,
+    "label": "1"
+  },
+  {
+    "text": "live",
+    "confidence": 0.75,
+    "end": 141630,
+    "start": 141370,
+    "label": "1"
+  },
+  {
+    "text": "like",
+    "confidence": 0.72,
+    "end": 141960,
+    "start": 141640,
+    "label": "1"
+  },
+  {
+    "text": "you",
+    "confidence": 0.97,
+    "end": 142350,
+    "start": 142170,
+    "label": "1"
+  },
+  {
+    "text": "live",
+    "confidence": 0.91,
+    "end": 142620,
+    "start": 142350,
+    "label": "1"
+  },
+  {
+    "text": "in",
+    "confidence": 0.93,
+    "end": 142740,
+    "start": 142630,
+    "label": "1"
+  },
+  {
+    "text": "Denver?",
+    "confidence": 0.92,
+    "end": 143250,
+    "start": 142740,
+    "label": "1"
+  },
+  {
+    "text": "Right?",
+    "confidence": 0.97,
+    "end": 143550,
+    "start": 143250,
+    "label": "1"
+  },
+  {
+    "text": "Do",
+    "confidence": 0.86,
+    "end": 144890,
+    "start": 143840,
+    "label": "1"
+  },
+  {
+    "text": "you",
+    "confidence": 0.99,
+    "end": 145070,
+    "start": 144900,
+    "label": "1"
+  },
+  {
+    "text": "live",
+    "confidence": 0.95,
+    "end": 145280,
+    "start": 145080,
+    "label": "1"
+  },
+  {
+    "text": "around",
+    "confidence": 0.94,
+    "end": 145580,
+    "start": 145290,
+    "label": "1"
+  },
+  {
+    "text": "downtown",
+    "confidence": 0.99,
+    "end": 146060,
+    "start": 145590,
+    "label": "1"
+  },
+  {
+    "text": "or",
+    "confidence": 0.94,
+    "end": 146240,
+    "start": 146070,
+    "label": "1"
+  },
+  {
+    "text": "pretty",
+    "confidence": 0.95,
+    "end": 147140,
+    "start": 146720,
+    "label": "1"
+  },
+  {
+    "text": "far?",
+    "confidence": 0.95,
+    "end": 147260,
+    "start": 147150,
+    "label": "1"
+  },
+  {
+    "text": "We",
+    "confidence": 1.0,
+    "end": 148040,
+    "start": 147500,
+    "label": "2"
+  },
+  {
+    "text": "did",
+    "confidence": 0.91,
+    "end": 148370,
+    "start": 148130,
+    "label": "2"
+  },
+  {
+    "text": "last",
+    "confidence": 0.93,
+    "end": 148700,
+    "start": 148380,
+    "label": "2"
+  },
+  {
+    "text": "year.",
+    "confidence": 0.94,
+    "end": 149000,
+    "start": 148710,
+    "label": "2"
+  },
+  {
+    "text": "Last",
+    "confidence": 0.97,
+    "end": 149900,
+    "start": 149010,
+    "label": "2"
+  },
+  {
+    "text": "year,",
+    "confidence": 0.99,
+    "end": 150140,
+    "start": 149910,
+    "label": "2"
+  },
+  {
+    "text": "we",
+    "confidence": 0.87,
+    "end": 150260,
+    "start": 150150,
+    "label": "2"
+  },
+  {
+    "text": "were",
+    "confidence": 0.65,
+    "end": 150500,
+    "start": 150270,
+    "label": "2"
+  },
+  {
+    "text": "in,",
+    "confidence": 0.94,
+    "end": 150590,
+    "start": 150510,
+    "label": "2"
+  },
+  {
+    "text": "like,",
+    "confidence": 0.84,
+    "end": 150800,
+    "start": 150600,
+    "label": "2"
+  },
+  {
+    "text": "walking",
+    "confidence": 0.92,
+    "end": 151220,
+    "start": 150810,
+    "label": "2"
+  },
+  {
+    "text": "distance,",
+    "confidence": 0.84,
+    "end": 151610,
+    "start": 151230,
+    "label": "2"
+  },
+  {
+    "text": "the",
+    "confidence": 0.7,
+    "end": 151910,
+    "start": 151620,
+    "label": "2"
+  },
+  {
+    "text": "maze",
+    "confidence": 0.63,
+    "end": 152120,
+    "start": 151920,
+    "label": "2"
+  },
+  {
+    "text": "plus",
+    "confidence": 0.77,
+    "end": 152330,
+    "start": 152130,
+    "label": "2"
+  },
+  {
+    "text": "stadium",
+    "confidence": 0.87,
+    "end": 152660,
+    "start": 152340,
+    "label": "2"
+  },
+  {
+    "text": "super",
+    "confidence": 0.9,
+    "end": 153050,
+    "start": 152660,
+    "label": "2"
+  },
+  {
+    "text": "downtown,",
+    "confidence": 0.91,
+    "end": 153410,
+    "start": 153060,
+    "label": "2"
+  },
+  {
+    "text": "but",
+    "confidence": 0.98,
+    "end": 155010,
+    "start": 153840,
+    "label": "2"
+  },
+  {
+    "text": "we",
+    "confidence": 0.87,
+    "end": 155160,
+    "start": 155020,
+    "label": "2"
+  },
+  {
+    "text": "moved",
+    "confidence": 0.92,
+    "end": 155490,
+    "start": 155170,
+    "label": "2"
+  },
+  {
+    "text": "to",
+    "confidence": 0.85,
+    "end": 155610,
+    "start": 155500,
+    "label": "2"
+  },
+  {
+    "text": "a",
+    "confidence": 0.99,
+    "end": 155700,
+    "start": 155620,
+    "label": "2"
+  },
+  {
+    "text": "fifteen,",
+    "confidence": 0.94,
+    "end": 156720,
+    "start": 156270,
+    "label": "2"
+  },
+  {
+    "text": "twenty",
+    "confidence": 0.94,
+    "end": 157050,
+    "start": 156730,
+    "label": "2"
+  },
+  {
+    "text": "minutes",
+    "confidence": 0.93,
+    "end": 157410,
+    "start": 157060,
+    "label": "2"
+  },
+  {
+    "text": "east.",
+    "confidence": 0.86,
+    "end": 157710,
+    "start": 157420,
+    "label": "2"
+  },
+  {
+    "text": "Now",
+    "confidence": 0.99,
+    "end": 158220,
+    "start": 157980,
+    "label": "2"
+  },
+  {
+    "text": "we",
+    "confidence": 0.98,
+    "end": 158340,
+    "start": 158230,
+    "label": "2"
+  },
+  {
+    "text": "have",
+    "confidence": 0.99,
+    "end": 158550,
+    "start": 158350,
+    "label": "2"
+  },
+  {
+    "text": "a",
+    "confidence": 1.0,
+    "end": 158610,
+    "start": 158560,
+    "label": "2"
+  },
+  {
+    "text": "second",
+    "confidence": 0.94,
+    "end": 159000,
+    "start": 158620,
+    "label": "2"
+  },
+  {
+    "text": "bedroom",
+    "confidence": 0.99,
+    "end": 159360,
+    "start": 159010,
+    "label": "2"
+  },
+  {
+    "text": "and",
+    "confidence": 0.9,
+    "end": 161220,
+    "start": 160800,
+    "label": "2"
+  },
+  {
+    "text": "it's",
+    "confidence": 0.96,
+    "end": 162180,
+    "start": 161230,
+    "label": "2"
+  },
+  {
+    "text": "fine",
+    "confidence": 0.94,
+    "end": 162450,
+    "start": 162190,
+    "label": "2"
+  },
+  {
+    "text": "for",
+    "confidence": 0.98,
+    "end": 162690,
+    "start": 162450,
+    "label": "2"
+  },
+  {
+    "text": "us.",
+    "confidence": 0.98,
+    "end": 162840,
+    "start": 162700,
+    "label": "2"
+  },
+  {
+    "text": "We",
+    "confidence": 1.0,
+    "end": 162960,
+    "start": 162850,
+    "label": "2"
+  },
+  {
+    "text": "didn't",
+    "confidence": 0.94,
+    "end": 163560,
+    "start": 163140,
+    "label": "2"
+  },
+  {
+    "text": "be",
+    "confidence": 0.97,
+    "end": 163890,
+    "start": 163570,
+    "label": "2"
+  },
+  {
+    "text": "right",
+    "confidence": 0.96,
+    "end": 164190,
+    "start": 163900,
+    "label": "2"
+  },
+  {
+    "text": "there.",
+    "confidence": 0.91,
+    "end": 164460,
+    "start": 164200,
+    "label": "2"
+  },
+  {
+    "text": "Yeah.",
+    "confidence": 0.95,
+    "end": 165210,
+    "start": 164460,
+    "label": "1"
+  },
+  {
+    "text": "Makes",
+    "confidence": 0.88,
+    "end": 165690,
+    "start": 165330,
+    "label": "0"
+  },
+  {
+    "text": "sense.",
+    "confidence": 0.97,
+    "end": 165900,
+    "start": 165700,
+    "label": "0"
+  },
+  {
+    "text": "That's",
+    "confidence": 0.79,
+    "end": 166540,
+    "start": 166120,
+    "label": "1"
+  },
+  {
+    "text": "pretty",
+    "confidence": 0.94,
+    "end": 166840,
+    "start": 166550,
+    "label": "1"
+  },
+  {
+    "text": "cool.",
+    "confidence": 0.96,
+    "end": 167050,
+    "start": 166850,
+    "label": "1"
+  },
+  {
+    "text": "Yeah.",
+    "confidence": 0.76,
+    "end": 168640,
+    "start": 168370,
+    "label": "1"
+  },
+  {
+    "text": "Is",
+    "confidence": 0.95,
+    "end": 168970,
+    "start": 168670,
+    "label": "1"
+  },
+  {
+    "text": "this",
+    "confidence": 0.85,
+    "end": 169570,
+    "start": 169300,
+    "label": "1"
+  },
+  {
+    "text": "enough?",
+    "confidence": 0.94,
+    "end": 170110,
+    "start": 169690,
+    "label": "1"
+  },
+  {
+    "text": "Cool?",
+    "confidence": 0.89,
+    "end": 170800,
+    "start": 170470,
+    "label": "0"
+  },
+  {
+    "text": "Yeah,",
+    "confidence": 0.79,
+    "end": 171130,
+    "start": 170800,
+    "label": "2"
+  },
+  {
+    "text": "that's",
+    "confidence": 0.93,
+    "end": 171430,
+    "start": 171140,
+    "label": "2"
+  },
+  {
+    "text": "funny.",
+    "confidence": 0.81,
+    "end": 171850,
+    "start": 171460,
+    "label": "2"
+  },
+  {
+    "text": "So",
+    "confidence": 0.71,
+    "end": 172660,
+    "start": 171910,
+    "label": "2"
+  },
+  {
+    "text": "the",
+    "confidence": 0.66,
+    "end": 172840,
+    "start": 172670,
+    "label": "2"
+  },
+  {
+    "text": "record.",
+    "confidence": 0.76,
+    "end": 173110,
+    "start": 172850,
+    "label": "2"
+  }
+]
