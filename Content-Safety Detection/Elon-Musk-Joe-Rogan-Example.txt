@@ -1,0 +1,117 @@
+Link to the podcast:
+https://www.youtube.com/watch?v=ycPr5-27vSI
+
+Overall podcast content safety scores:
+   Topic: accidents --- 5.674733163964875%
+   Topic: alcohol --- 8.07517445520252%
+   Topic: crime_violence --- 5.1889097720389525%
+   Topic: disasters --- 6.20306690118162%
+   Topic: drugs --- 9.59634667421789%
+   Topic: financials --- 0%
+   Topic: gambling --- 0%
+   Topic: hate_speech --- 0%
+   Topic: health_issues --- 5.1889097720389525%
+   Topic: manga --- 0%
+   Topic: negative_news --- 0%
+   Topic: nsfw --- 90.07018469887159%
+   Topic: pornography --- 5.674733163964875%
+   Topic: profanity --- 94.62166635575693%
+   Topic: terrorism --- 0%
+   Topic: tobacco --- 5.1889097720389525%
+   Topic: weapons --- 9.59634667421789%
+
+Example segments:
+Text: "How do you have the time to do that, though? I mean, I understand that it's not a big deal in terms of all the other things that you do. But how do you have time to do anything? I don't understand your time management skills, I mean, I didn't spend much time on this flame throw."
+   Topic: accidents --- Probablity: 0.6145056802779436%
+   Topic: alcohol --- Probablity: 0.38723363541066647%
+   Topic: crime_violence --- Probablity: 0.4254746250808239%
+   Topic: disasters --- Probablity: 0.2311907010152936%
+   Topic: drugs --- Probablity: 0.3784375265240669%
+   Topic: financials --- Probablity: 0.5356145091354847%
+   Topic: gambling --- Probablity: 0.6472811568528414%
+   Topic: hate_speech --- Probablity: 0.26248954236507416%
+   Topic: health_issues --- Probablity: 0.41800662875175476%
+   Topic: manga --- Probablity: 0.334217119961977%
+   Topic: negative_news --- Probablity: 0.2737578470259905%
+   Topic: nsfw --- Probablity: 1.3036713935434818%
+   Topic: pornography --- Probablity: 0.135372718796134%
+   Topic: profanity --- Probablity: 0.18878586124628782%
+   Topic: terrorism --- Probablity: 0.2640386810526252%
+   Topic: tobacco --- Probablity: 2.1674802526831627%
+   Topic: weapons --- Probablity: 7.672236859798431%
+
+Text: "So we are to solve this problem for all the customs agencies, we labeled it not a flame through that work, is it effective? I don't know, I think so so far. Yes, but you said you cannot set a plan through but you do so many different things. I forget about the flamethrower. Like, how do you do all the other shit? How does one decide to fix LA traffic by drilling holes in the ground. And who do you even approach with that?"
+   Topic: accidents --- Probablity: 0.7720360066741705%
+   Topic: alcohol --- Probablity: 0.3017117269337177%
+   Topic: crime_violence --- Probablity: 2.82167699187994%
+   Topic: disasters --- Probablity: 0.8029243908822536%
+   Topic: drugs --- Probablity: 0.49858754500746727%
+   Topic: financials --- Probablity: 0.8892225101590157%
+   Topic: gambling --- Probablity: 0.5443385802209377%
+   Topic: hate_speech --- Probablity: 2.081645093858242%
+   Topic: health_issues --- Probablity: 0.5376414395868778%
+   Topic: manga --- Probablity: 1.0054261423647404%
+   Topic: negative_news --- Probablity: 1.1019691824913025%
+   Topic: nsfw --- Probablity: 58.297473192214966%
+   Topic: pornography --- Probablity: 0.34464935306459665%
+   Topic: profanity --- Probablity: 95.07363438606262%
+   Topic: terrorism --- Probablity: 1.0445727035403252%
+   Topic: tobacco --- Probablity: 0.7513911928981543%
+   Topic: weapons --- Probablity: 6.280764937400818%
+
+Text: "So living things up for sure it's guaranteed to make any party better. Yeah, well that's I mean that's the armed civilization theory, right that an armed community is safe and polite community you're in Texas it's kind of true. Yeah, I mean, people in Texas are super polite and everybody's got a gun. Don't make somebody angry? Yeah, I don't know what's gonna happen. Yeah it's not a good move."
+   Topic: accidents --- Probablity: 0.551871582865715%
+   Topic: alcohol --- Probablity: 0.4460720345377922%
+   Topic: crime_violence --- Probablity: 8.492210507392883%
+   Topic: disasters --- Probablity: 0.18160335021093488%
+   Topic: drugs --- Probablity: 1.0180771350860596%
+   Topic: financials --- Probablity: 1.6712561249732971%
+   Topic: gambling --- Probablity: 0.8135532960295677%
+   Topic: hate_speech --- Probablity: 1.0184654034674168%
+   Topic: health_issues --- Probablity: 0.9446301497519016%
+   Topic: manga --- Probablity: 0.2818518318235874%
+   Topic: negative_news --- Probablity: 2.4414531886577606%
+   Topic: nsfw --- Probablity: 5.945887789130211%
+   Topic: pornography --- Probablity: 0.21130815148353577%
+   Topic: profanity --- Probablity: 0.40272949263453484%
+   Topic: terrorism --- Probablity: 0.5219632759690285%
+   Topic: tobacco --- Probablity: 0.4070654045790434%
+   Topic: weapons --- Probablity: 94.0938949584961%
+
+Text: "You think other people care about it, but they don't really care about it and certainly governs don't well, some people care about it, but then it gets weird when it gets exposed like Jennifer Lawrence when a naked pictures of her got exposed. I think in some ways people liked her more. They realize she's just a person. Just a girl who likes sex and it's just alive? And as a boyfriend and send the messages. And now you get to look into it."
+   Topic: accidents --- Probablity: 0.3397472435608506%
+   Topic: alcohol --- Probablity: 0.5602319724857807%
+   Topic: crime_violence --- Probablity: 0.6563506089150906%
+   Topic: disasters --- Probablity: 0.3856129013001919%
+   Topic: drugs --- Probablity: 0.6766849663108587%
+   Topic: financials --- Probablity: 0.37936230655759573%
+   Topic: gambling --- Probablity: 0.29661592561751604%
+   Topic: hate_speech --- Probablity: 2.85759624093771%
+   Topic: health_issues --- Probablity: 0.659613311290741%
+   Topic: manga --- Probablity: 0.42541525326669216%
+   Topic: negative_news --- Probablity: 0.789936538785696%
+   Topic: nsfw --- Probablity: 80.04710674285889%
+   Topic: pornography --- Probablity: 50.60516595840454%
+   Topic: profanity --- Probablity: 1.7613131552934647%
+   Topic: terrorism --- Probablity: 0.2820990514010191%
+   Topic: tobacco --- Probablity: 0.4804966039955616%
+   Topic: weapons --- Probablity: 0.32370369881391525%
+
+Text: "Alcohol is a drug that's been grandfathered in well it's not just a drug it's a drug that gets a bad rap because you just have a little it's great fine. Yeah, a little sip here and there and your inhibitions are relaxed and it shows you true, self and hopefully you're more joyous and friendly and happy. And and everything's good. The real worry is the people that can't handle it like."
+   Topic: accidents --- Probablity: 0.5431500263512135%
+   Topic: alcohol --- Probablity: 93.52279901504517%
+   Topic: crime_violence --- Probablity: 0.6292355246841908%
+   Topic: disasters --- Probablity: 0.4761780612170696%
+   Topic: drugs --- Probablity: 21.093395352363586%
+   Topic: financials --- Probablity: 0.3804875537753105%
+   Topic: gambling --- Probablity: 1.544494368135929%
+   Topic: hate_speech --- Probablity: 1.0374372825026512%
+   Topic: health_issues --- Probablity: 1.9623592495918274%
+   Topic: manga --- Probablity: 0.281646428629756%
+   Topic: negative_news --- Probablity: 0.38288841024041176%
+   Topic: nsfw --- Probablity: 9.876599162817001%
+   Topic: pornography --- Probablity: 0.5061918869614601%
+   Topic: profanity --- Probablity: 0.8210698142647743%
+   Topic: terrorism --- Probablity: 0.23163831792771816%
+   Topic: tobacco --- Probablity: 0.977114774286747%
+   Topic: weapons --- Probablity: 0.5642165429890156%
